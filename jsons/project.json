@@ -1,0 +1,20 @@
+[
+    {
+        "projectId": 1,
+        "projectName": "project1",
+        "foonotes": "",
+        "comment": ["", ""],
+        "owner": "JSmith99",
+        "developers": ["JSmith99", "SkyWalker33"],
+        "scrumMaster": "JSmith99"
+    },
+    {
+        "projectId": 2,
+        "projectName": "project2",
+        "foonotes": "",
+        "comment": ["", ""],
+        "owner": "SkyWalker33",
+        "developers": ["SkyWalker33", "JSmith99"],
+        "scrumMaster": "SkyWalker33"
+    }
+]
